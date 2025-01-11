@@ -1,0 +1,1 @@
+# Dimensionality-Reduction-using-K-Means-for-Activity-Recognition
